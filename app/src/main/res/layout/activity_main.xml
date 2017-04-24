@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/LayoutGrand"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="hakke379.translate.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/Layout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonFrom"
+            android:layout_width="160dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@android:color/white"
+            android:text="Button" />
+
+        <ImageButton
+            android:id="@+id/buttonSwap"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/image_swap" />
+
+        <Button
+            android:id="@+id/buttonTo"
+            android:layout_width="160dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@android:color/white"
+            android:text="Button" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutA"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true">
+
+            <EditText
+                android:id="@+id/textFrom"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/image_fon_border"
+                android:hint="@string/hintTextBox"
+                android:imeOptions="actionGo"
+                android:inputType="textMultiLine"
+                android:maxLength="9900"
+                android:onClick="onClickTextBox"
+                android:textColor="@android:color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textTo"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="50dp"
+                android:background="@android:color/white"
+                android:onClick="onClickTextBox"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="16sp" />
+
+            <ImageButton
+                android:id="@+id/buttomClear"
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_gravity="top|right"
+                android:layout_margin="10dp"
+                android:background="@drawable/image_clear" />
+        </FrameLayout>
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:itemBackground="@color/colorYellow"
+        app:itemIconTint="@color/bottom_navigation_item_background_colors"
+        app:itemTextColor="@color/bottom_navigation_item_background_colors"
+        app:menu="@menu/menu_botton_navigation" />
+
+</LinearLayout>
