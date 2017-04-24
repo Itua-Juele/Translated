@@ -70,7 +70,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         linearLayout = (LinearLayout) findViewById(R.id.layoutA);
         listView = (ListView)findViewById(R.id.listView);
         listView.setOnItemClickListener(onItemClickListener());
-        history = new ListAdapter(linearLayout.getContext(), BDHistory.getArrayList(), 1);
+        history = new ListAdapter(linearLayout.getContext(), new ArrayList<Card>(), 1);
+        history.saveHistory();
         listView.setAdapter(history);
         BottomNavigationView bottomNavigationView = (BottomNavigationView)
                 findViewById(R.id.bottom_navigation);

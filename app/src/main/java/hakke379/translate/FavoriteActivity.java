@@ -42,7 +42,8 @@ public class FavoriteActivity extends AppCompatActivity {
                         setResult(RESULT_OK, intent);
                         break;
                     case R.id.action_favor:
-                        favorites = new ListAdapter(FavoriteActivity.this, DBFavorite.getArrayList(), 2);
+                        favorites = new ListAdapter(FavoriteActivity.this, new ArrayList<Card>(), 2);
+                        favorites.ArrayFavor();
                         listView.setAdapter(favorites);
                         break;
                     case R.id.action_settings:

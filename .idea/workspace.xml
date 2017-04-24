@@ -68,21 +68,22 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="185" column="38" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="38" />
+            <state relative-caret-position="139">
+              <caret line="73" column="30" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
               <folding>
                 <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="false" />
                 <element signature="method#onClick#0;class#MainActivity#0" expanded="false" />
                 <element signature="method#onClickTextBox#0;class#MainActivity#0" expanded="false" />
-                <element signature="e#6439#7218#0" expanded="true" />
-                <element signature="e#7217#7218#0" expanded="true" />
+                <element signature="method#onEditorActionListener#0;class#MainActivity#0" expanded="false" />
+                <element signature="e#6467#7246#0" expanded="true" />
+                <element signature="e#7245#7246#0" expanded="true" />
                 <element signature="method#textWatcher#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#beforeTextChanged#0;class#7320:8362" expanded="false" />
-                <element signature="method#onTextChanged#0;class#7320:8362" expanded="false" />
-                <element signature="method#afterTextChanged#0;class#7320:8362" expanded="false" />
+                <element signature="method#beforeTextChanged#0;class#7348:8390" expanded="false" />
+                <element signature="method#onTextChanged#0;class#7348:8390" expanded="false" />
+                <element signature="method#afterTextChanged#0;class#7348:8390" expanded="false" />
                 <element signature="method#onItemClickListener#0;class#MainActivity#0" expanded="false" />
-                <element signature="e#9291#9992#0" expanded="true" />
-                <element signature="e#9991#9992#0" expanded="true" />
+                <element signature="e#9319#10020#0" expanded="true" />
+                <element signature="e#10019#10020#0" expanded="true" />
                 <element signature="method#ShowError#0;class#MainActivity#0" expanded="false" />
                 <element signature="class#LanguagesTask#0;class#MainActivity#0" expanded="false" />
                 <element signature="class#TranslateTask#0;class#MainActivity#0" expanded="false" />
@@ -97,7 +98,7 @@
       <file leaf-file-name="DBTranslate.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/DBTranslate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="9">
               <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -111,11 +112,10 @@
       <file leaf-file-name="FavoriteActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/FavoriteActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            <state relative-caret-position="207">
+              <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#onNavigationItemSelectedListener#0;class#FavoriteActivity#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -163,7 +163,7 @@
       <file leaf-file-name="ListAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/ListAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="332">
               <caret line="172" column="37" selection-start-line="172" selection-start-column="37" selection-end-line="172" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -179,8 +179,8 @@
       <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/Card.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="64" column="69" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="69" />
+            <state relative-caret-position="122">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Card#0;class#Card#0" expanded="false" />
@@ -189,7 +189,6 @@
                 <element signature="method#Card#3;class#Card#0" expanded="false" />
                 <element signature="method#Translate#0;class#Card#0" expanded="false" />
                 <element signature="method#getFavorites#0;class#Card#0" expanded="false" />
-                <element signature="method#getContent#0;class#Card#0" expanded="false" />
                 <element signature="method#noFavorites#0;class#Card#0" expanded="false" />
               </folding>
             </state>
@@ -2056,10 +2055,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/hakke379/translate/YandexTranslate.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/hakke379/translate/BDHistory.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/hakke379/translate/DBTranslate.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/hakke379/translate/Card.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/hakke379/translate/ListAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/hakke379/translate/FavoriteActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/hakke379/translate/AnswerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/hakke379/translate/FavoriteActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/hakke379/translate/Card.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/hakke379/translate/MainActivity.java" />
       </list>
     </option>
@@ -2586,7 +2585,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
@@ -2602,7 +2601,8 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2473525" sideWeight="0.42332268" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2473525" sideWeight="0.42332268" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2615,7 +2615,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2734,15 +2733,16 @@
             <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onClick#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onClickTextBox#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#6439#7218#0" expanded="true" />
-            <element signature="e#7217#7218#0" expanded="true" />
+            <element signature="method#onEditorActionListener#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#6467#7246#0" expanded="true" />
+            <element signature="e#7245#7246#0" expanded="true" />
             <element signature="method#textWatcher#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#beforeTextChanged#0;class#7320:8362" expanded="false" />
-            <element signature="method#onTextChanged#0;class#7320:8362" expanded="false" />
-            <element signature="method#afterTextChanged#0;class#7320:8362" expanded="false" />
+            <element signature="method#beforeTextChanged#0;class#7348:8390" expanded="false" />
+            <element signature="method#onTextChanged#0;class#7348:8390" expanded="false" />
+            <element signature="method#afterTextChanged#0;class#7348:8390" expanded="false" />
             <element signature="method#onItemClickListener#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#9291#9992#0" expanded="true" />
-            <element signature="e#9991#9992#0" expanded="true" />
+            <element signature="e#9319#10020#0" expanded="true" />
+            <element signature="e#10019#10020#0" expanded="true" />
             <element signature="method#ShowError#0;class#MainActivity#0" expanded="false" />
             <element signature="class#LanguagesTask#0;class#MainActivity#0" expanded="false" />
             <element signature="class#TranslateTask#0;class#MainActivity#0" expanded="false" />
@@ -2802,15 +2802,16 @@
             <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onClick#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onClickTextBox#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#6439#7218#0" expanded="true" />
-            <element signature="e#7217#7218#0" expanded="true" />
+            <element signature="method#onEditorActionListener#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#6467#7246#0" expanded="true" />
+            <element signature="e#7245#7246#0" expanded="true" />
             <element signature="method#textWatcher#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#beforeTextChanged#0;class#7320:8362" expanded="false" />
-            <element signature="method#onTextChanged#0;class#7320:8362" expanded="false" />
-            <element signature="method#afterTextChanged#0;class#7320:8362" expanded="false" />
+            <element signature="method#beforeTextChanged#0;class#7348:8390" expanded="false" />
+            <element signature="method#onTextChanged#0;class#7348:8390" expanded="false" />
+            <element signature="method#afterTextChanged#0;class#7348:8390" expanded="false" />
             <element signature="method#onItemClickListener#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#9291#9992#0" expanded="true" />
-            <element signature="e#9991#9992#0" expanded="true" />
+            <element signature="e#9319#10020#0" expanded="true" />
+            <element signature="e#10019#10020#0" expanded="true" />
             <element signature="method#ShowError#0;class#MainActivity#0" expanded="false" />
             <element signature="class#LanguagesTask#0;class#MainActivity#0" expanded="false" />
             <element signature="class#TranslateTask#0;class#MainActivity#0" expanded="false" />
@@ -2989,13 +2990,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#DBFavorite#1;class#DBFavorite#0" expanded="false" />
-            <element signature="method#deleteCard#0;class#DBFavorite#0" expanded="false" />
-            <element signature="method#getArrayList#0;class#DBFavorite#0" expanded="false" />
-            <element signature="e#1758#1764#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3041,26 +3036,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#BDHistory#0;class#BDHistory#0" expanded="false" />
-            <element signature="method#BDHistory#1;class#BDHistory#0" expanded="false" />
-            <element signature="method#BDHistory#2;class#BDHistory#0" expanded="false" />
-            <element signature="method#getArrayList#0;class#BDHistory#0" expanded="false" />
-            <element signature="method#getCard#0;class#BDHistory#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/DBTranslate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3078,27 +3054,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/Card.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/DBTranslate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="64" column="69" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="69" />
+        <state relative-caret-position="9">
+          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#Card#0;class#Card#0" expanded="false" />
-            <element signature="method#Card#1;class#Card#0" expanded="false" />
-            <element signature="method#Card#2;class#Card#0" expanded="false" />
-            <element signature="method#Card#3;class#Card#0" expanded="false" />
-            <element signature="method#Translate#0;class#Card#0" expanded="false" />
-            <element signature="method#getFavorites#0;class#Card#0" expanded="false" />
-            <element signature="method#getContent#0;class#Card#0" expanded="false" />
-            <element signature="method#noFavorites#0;class#Card#0" expanded="false" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/ListAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
+        <state relative-caret-position="332">
           <caret line="172" column="37" selection-start-line="172" selection-start-column="37" selection-end-line="172" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -3106,17 +3076,6 @@
             <element signature="method#onClickListener#0;class#ListAdapter#0" expanded="false" />
             <element signature="method#addCard#0;class#ListAdapter#0" expanded="false" />
             <element signature="method#deleteHistory#0;class#ListAdapter#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/FavoriteActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#onNavigationItemSelectedListener#0;class#FavoriteActivity#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3129,23 +3088,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/FavoriteActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Card#0;class#Card#0" expanded="false" />
+            <element signature="method#Card#1;class#Card#0" expanded="false" />
+            <element signature="method#Card#2;class#Card#0" expanded="false" />
+            <element signature="method#Card#3;class#Card#0" expanded="false" />
+            <element signature="method#Translate#0;class#Card#0" expanded="false" />
+            <element signature="method#getFavorites#0;class#Card#0" expanded="false" />
+            <element signature="method#noFavorites#0;class#Card#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/hakke379/translate/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="185" column="38" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="38" />
+        <state relative-caret-position="139">
+          <caret line="73" column="30" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
           <folding>
             <element signature="method#onActivityResult#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onClick#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onClickTextBox#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#6439#7218#0" expanded="true" />
-            <element signature="e#7217#7218#0" expanded="true" />
+            <element signature="method#onEditorActionListener#0;class#MainActivity#0" expanded="false" />
+            <element signature="e#6467#7246#0" expanded="true" />
+            <element signature="e#7245#7246#0" expanded="true" />
             <element signature="method#textWatcher#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#beforeTextChanged#0;class#7320:8362" expanded="false" />
-            <element signature="method#onTextChanged#0;class#7320:8362" expanded="false" />
-            <element signature="method#afterTextChanged#0;class#7320:8362" expanded="false" />
+            <element signature="method#beforeTextChanged#0;class#7348:8390" expanded="false" />
+            <element signature="method#onTextChanged#0;class#7348:8390" expanded="false" />
+            <element signature="method#afterTextChanged#0;class#7348:8390" expanded="false" />
             <element signature="method#onItemClickListener#0;class#MainActivity#0" expanded="false" />
-            <element signature="e#9291#9992#0" expanded="true" />
-            <element signature="e#9991#9992#0" expanded="true" />
+            <element signature="e#9319#10020#0" expanded="true" />
+            <element signature="e#10019#10020#0" expanded="true" />
             <element signature="method#ShowError#0;class#MainActivity#0" expanded="false" />
             <element signature="class#LanguagesTask#0;class#MainActivity#0" expanded="false" />
             <element signature="class#TranslateTask#0;class#MainActivity#0" expanded="false" />

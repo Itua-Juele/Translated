@@ -24,7 +24,6 @@ class Card{
     String textFrom;
     String textTo;
     public IOException error;
-    private DBFavorite dbFavorite;
     // Конструкторы класса для разных ситуаций
 
     public Card(String longTo, String textFrom){
