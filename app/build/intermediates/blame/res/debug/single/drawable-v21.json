@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Projects\\Android\\Translate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Жуэль\\.android\\build-cache\\11da1599980f62d67faaf20a36483d0bf08a0afc\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\Translate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Жуэль\\.android\\build-cache\\11da1599980f62d67faaf20a36483d0bf08a0afc\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\Translate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Жуэль\\.android\\build-cache\\9c0bbfdff79821846b5c36f7c05aef525e3480b6\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\Translate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Жуэль\\.android\\build-cache\\11da1599980f62d67faaf20a36483d0bf08a0afc\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\Translate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Жуэль\\.android\\build-cache\\11da1599980f62d67faaf20a36483d0bf08a0afc\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

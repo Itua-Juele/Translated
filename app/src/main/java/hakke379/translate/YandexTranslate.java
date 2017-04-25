@@ -1,8 +1,5 @@
 package hakke379.translate;
 
-import android.os.AsyncTask;
-import android.widget.TextView;
-
 import java.io.IOException;
 import java.net.URL;
 import java.net.URLEncoder;
